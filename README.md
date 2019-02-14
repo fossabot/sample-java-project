@@ -1,4 +1,6 @@
 # Sample Java Project
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmadhusnair340s%2Fsample-java-project.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmadhusnair340s%2Fsample-java-project?ref=badge_shield)
+
 
 This is a reference for setting up a new Ant-based Java project. It
 contains most of the little Ant tricks I've learned over the
@@ -50,3 +52,7 @@ environment set up -- one that works across many projects -- should be
 able to clone the repository and do a build simply by running the
 build program with no special arguments. There should be no need to
 edit or install anything into the project space for the initial build.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmadhusnair340s%2Fsample-java-project.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmadhusnair340s%2Fsample-java-project?ref=badge_large)
